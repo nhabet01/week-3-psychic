@@ -1,2 +1,2 @@
-<?php include_once("psychic.html");
+<?php include_once("index.html");
 ?>
